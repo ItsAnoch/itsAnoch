@@ -9,7 +9,7 @@
       
 - ✍ As a aspiring developer I find it hard to stay motivated so here are some quotes that I hope you'd be motivated by:
 
-     	 	"Push yourself, becuase no one is going to do it for you.",
+		"Push yourself, becuase no one is going to do it for you.",
 		"The key to success is to focus on your goals, not your obsticles",
 		"Once you become fearless, life becomes limitless."
 		"Stop when you're done, not when you're tired."
