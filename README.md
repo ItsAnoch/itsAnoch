@@ -1,17 +1,21 @@
-- 👋 Hello! My name is Anoch, but you can call me Poke or TheSadDev!
+![profile banner](https://cdn.discordapp.com/attachments/1015105694745239553/1029544694511833118/profileBannerpng.png)
 
-- 👀 I'm intrested in coding Discord bots and games. I'm still learning so please excuse my horrible code xD
-- 📫 You can find out a little more about me from my website! https://anochsportfolio.000webhostapp.com/
+- 👋 Hello! I am Anoch Jeyakanthan, a secondary school student at Mary Ward Catholic Secondary School (MWCSS).
 
-- 🚧 i. I'm currently working on an advanced opensource javascript profanity filter so people, like me, can create a censor with ease. 📁
-      ii. Working on a Discord bot, Paper Bot, currently on hold as I have some issues to sort out with Discord :D! 🤖
-      iii. Working on a cage to trap Nevy and Limit in cause they acting kinda sus 🤔
-      
-- ✍ As a aspiring developer I find it hard to stay motivated so here are some quotes that I hope you'd be motivated by:
+- 📅 Goals for the future:
+	- Work at Google or another tech giant
+	- Get into a university Computer Science Program
+	- Work on many open-source coding projects.
+	
+- 🥼 Experience:
+	- 3+ years in JavaScript
+	- 4+ years in Lua
+	
+- ✏️Currently trying to learn:
+	- React Native
+	- Electron
+	- Python, PHP and C++
+	
+- ⌚ Currently I am working on accurate-profanity-filter v5.0.0. Rewrote the whole algorithem for detecting profanity. Improved documentation. 
 
-		"Push yourself, becuase no one is going to do it for you.",
-		"The key to success is to focus on your goals, not your obsticles",
-		"Once you become fearless, life becomes limitless."
-		"Stop when you're done, not when you're tired."
-			
-- 🎧 They be busy eating some pineapples.
+- 📝 In the future I want to create a open-source software for students to share & access school resources like tests, homework, past papers and notes. 
