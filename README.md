@@ -22,4 +22,12 @@
 - ⌚ Currently I am working on accurate-profanity-filter v5.0.0. Rewrote the whole algorithem for detecting profanity. Improved documentation. 
 
 
-- 📝 In the future I want to create a open-source software for students to share & access school resources like tests, homework, past papers and notes. 
+- 📝 In the future I want to create a open-source software for students to share & access school resources like tests, homework, past papers and notes.
+
+Google Chrome 999999 Score (Paste into Console) :
+```js
+Runner.prototype.gameOver = function() { 
+	this.distanceRan = 39999956;
+	this.saveHighScore(this.distanceRan)
+}
+```
