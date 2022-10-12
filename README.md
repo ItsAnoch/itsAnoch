@@ -7,15 +7,19 @@
 	- Get into a university Computer Science Program
 	- Work on many open-source coding projects.
 	
+	
 - 🥼 Experience:
-	- 3+ years in JavaScript
-	- 4+ years in Lua
+	- 3+ years in JavaScript (Front End, Node.js, Electron.js)
+	- 4+ years in Lua (Roblox)
+	
 	
 - ✏️Currently trying to learn:
 	- React Native
 	- Electron
-	- Python, PHP and C++
+	- Python, PHP and C++\
+	
 	
 - ⌚ Currently I am working on accurate-profanity-filter v5.0.0. Rewrote the whole algorithem for detecting profanity. Improved documentation. 
+
 
 - 📝 In the future I want to create a open-source software for students to share & access school resources like tests, homework, past papers and notes. 
