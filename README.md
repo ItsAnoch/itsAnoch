@@ -31,5 +31,5 @@ Google Chrome 999999 Score (Paste into Console):
 Runner.prototype.gameOver = () => { 
 	this.distanceRan = 39999956;
 	this.saveHighScore(this.distanceRan);
-}.
+};
 ```
