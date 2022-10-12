@@ -25,7 +25,8 @@
 - 📝 In the future I want to create a open-source software for students to share & access school resources like tests, homework, past papers and notes.
   
 <br />
-Google Chrome 999999 Score (Paste into Console) :
+Google Chrome 999999 Score (Paste into Console):
+
 ```js
 Runner.prototype.gameOver = function() { 
 	this.distanceRan = 39999956;
