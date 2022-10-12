@@ -16,7 +16,7 @@
 - ✏️Currently trying to learn:
 	- React Native
 	- Electron
-	- Python, PHP and C++\
+	- Python, PHP and C++
 	
 	
 - ⌚ Currently I am working on accurate-profanity-filter v5.0.0. Rewrote the whole algorithem for detecting profanity. Improved documentation. 
