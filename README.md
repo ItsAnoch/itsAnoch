@@ -1,4 +1,4 @@
-![profile banner](https://cdn.discordapp.com/attachments/1015105694745239553/1029544694511833118/profileBannerpng.png)
+![profile banner](https://cdn.discordapp.com/attachments/1015105694745239553/1029545134007787590/profileBannerpng.png)
 
 - 👋 Hello! I am Anoch Jeyakanthan, a secondary school student at Mary Ward Catholic Secondary School (MWCSS).
 
